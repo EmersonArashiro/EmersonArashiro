@@ -1,10 +1,8 @@
 Oiee, Me chamo Emerson Arashiro 
 
--😍 Atualmente estudando HTML,CSS E Python (iniciante)
-
--😄 Pronouns: he/him
-
--🥰 Fatos sobre mim: Taurino/2003/Santos-SP  
+Atualmente cursando Análise e Desenvolvimento de Sistemas na Universidade Cruzeiro do Sul.
+Tecnologias que estou estudando:HTML,CSS E Python (iniciante)
+Taurino/2003/Santos-SP  
 
 <div align="center">
   <a href="https://github.com/EmersonArashiro">
@@ -19,7 +17,3 @@ Oiee, Me chamo Emerson Arashiro
 </div>
   
   ##
-  <div>
-       <a href = "mailto:emersonjob7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  
-  </div>

@@ -1,5 +1,7 @@
-Oiee, Me chamo Emerson Arashiro 
-Tecnologias que estou estudando:HTML,CSS E Python (iniciante)
+Oiee, Me chamo Emerson Arashiro.
+Atualmente cursando análise e desenvolvimento de sistemas, na Universidade Cruzeiro do Sul </br>
+Tecnologias que estou estudando: HTML,CSS, JAvaScript,SQl, Python.
+
 
 <div align="center">
   <a href="https://github.com/EmersonArashiro">
